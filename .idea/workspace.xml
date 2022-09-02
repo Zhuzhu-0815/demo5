@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54bdfb5e-f940-40f8-8848-411c9b085489" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/blog_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +35,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -90,56 +85,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="demo" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BlogDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="blog_demo.BlogDemoApplication" />
@@ -197,7 +145,7 @@
       <workItem from="1662137748607" duration="58000" />
       <workItem from="1662137811105" duration="58000" />
       <workItem from="1662137886175" duration="569000" />
-      <workItem from="1662138466163" duration="523000" />
+      <workItem from="1662138466163" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1662138558482</created>
@@ -227,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662138738333</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="123">
+      <created>1662139007454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662139007454</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,10 +218,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="520" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1662125637705" />
-    <state x="386" y="5" key="CommitChangelistDialog2" timestamp="1662138696743">
+    <state x="386" y="5" key="CommitChangelistDialog2" timestamp="1662139006596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="386" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1662138696743" />
+    <state x="386" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1662139006596" />
     <state x="549" y="138" key="FileChooserDialogImpl" timestamp="1662138937231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -275,62 +230,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="577" y="325" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1662133805488" />
-    <state x="632" y="302" key="Github.ShareDialog" timestamp="1662136453883">
+    <state x="632" y="302" key="Github.ShareDialog" timestamp="1662139059284">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="632" y="302" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1662136453883" />
+    <state x="632" y="302" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1662139059284" />
     <state x="568" y="117" key="Github.UntrackedFilesDialog" timestamp="1662135024414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="568" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1662135024414" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1662138904884">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1662139363384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1662138904884" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1662138904884">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1662139363384" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1662139363384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1662138904884" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1662138904883">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1662139363384" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1662139363384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1662138904883" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1662138904884">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1662139363384" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1662139363384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1662138904884" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1662138904884">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1662139363384" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1662139363385">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1662138904884" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1662138904884">
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1662139363385" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1662139363385">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1662138904884" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1662138904884">
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1662139363385" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1662139363385">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1662138904884" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1662138904884">
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1662139363385" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1662139363385">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1662138904884" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1662139363385" />
     <state x="418" y="122" key="RollbackChangesDialog" timestamp="1662138662807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="418" y="122" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1662138662807" />
-    <state x="282" y="0" key="SettingsEditor" timestamp="1662138435937">
+    <state x="282" y="0" key="SettingsEditor" timestamp="1662139260177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="282" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1662138435937" />
+    <state x="282" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1662139260177" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1662136635844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1662136635844" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1662138896385">
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1662139260544">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1662138896385" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1662139260544" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662139375740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1662139375740" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1659235118324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
