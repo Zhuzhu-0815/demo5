@@ -29,6 +29,7 @@ public class ArticleService {
 			baseResponse.setMessage("上传成功");
 			baseResponse.setStatus(SUCCESS_STATUS);
 		} catch (Exception e) {
+			System.out.println(1);
 			System.out.println(e);
 			baseResponse.setMessage("上传失败");
 			baseResponse.setStatus(DEFAULT_STATUS);

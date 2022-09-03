@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="54bdfb5e-f940-40f8-8848-411c9b085489" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/blog_demo/Service/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/blog_demo/Service/ArticleService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +147,7 @@
       <workItem from="1662137811105" duration="58000" />
       <workItem from="1662137886175" duration="569000" />
       <workItem from="1662138466163" duration="832000" />
-      <workItem from="1662201158736" duration="438000" />
+      <workItem from="1662201158736" duration="1262000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1662138558482</created>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662139007454</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1234">
+      <created>1662201689384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662201689384</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +200,8 @@
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="1234" />
+    <option name="LAST_COMMIT_MESSAGE" value="1234" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Notifications" timestamp="1662136140436">
@@ -219,10 +228,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="520" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1662125637705" />
-    <state x="386" y="5" key="CommitChangelistDialog2" timestamp="1662139006596">
+    <state x="386" y="5" key="CommitChangelistDialog2" timestamp="1662201688181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="386" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1662139006596" />
+    <state x="386" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1662201688181" />
     <state x="549" y="138" key="FileChooserDialogImpl" timestamp="1662201541853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -231,10 +240,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="577" y="325" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1662133805488" />
-    <state x="632" y="302" key="Github.ShareDialog" timestamp="1662139059284">
+    <state x="632" y="302" key="Github.ShareDialog" timestamp="1662201768156">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="632" y="302" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1662139059284" />
+    <state x="632" y="302" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1662201768156" />
     <state x="568" y="117" key="Github.UntrackedFilesDialog" timestamp="1662135024414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -275,10 +284,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="418" y="122" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1662138662807" />
-    <state x="282" y="0" key="SettingsEditor" timestamp="1662139260177">
+    <state x="280" y="62" key="SettingsEditor" timestamp="1662202125465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="282" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1662139260177" />
+    <state x="280" y="62" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1662202125465" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1662136635844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
